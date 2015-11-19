@@ -1,6 +1,6 @@
 # syntaxhighlighter/brush-csharp
 
-csharp brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
+C# brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
 [![Build Status](https://travis-ci.org/alexgorbatchev/brush-csharp.svg)](https://travis-ci.org/alexgorbatchev/brush-csharp)
 
