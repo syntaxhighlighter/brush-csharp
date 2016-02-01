@@ -2,11 +2,11 @@
 
 C# brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/brush-csharp.svg)](https://travis-ci.org/alexgorbatchev/brush-csharp)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/brush-csharp.svg)](https://travis-ci.org/syntaxhighlighter/brush-csharp)
 
 ## Installation
 
-    npm install syntaxhighlighter/brush-csharp
+    npm install @alexgorbatchev/brush-csharp
 
 ## Testing
 
