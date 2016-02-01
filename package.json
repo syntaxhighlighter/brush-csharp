@@ -1,5 +1,5 @@
 {
-  "name": "brush-csharp",
+  "name": "@alexgorbatchev/brush-csharp",
   "version": "4.0.0",
   "description": "csharp brush module for SyntaxHighlighter.",
   "keywords": [
