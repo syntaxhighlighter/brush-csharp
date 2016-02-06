@@ -1,6 +1,6 @@
-var BrushBase = require('@alexgorbatchev/brush-base');
-var regexLib = require('@alexgorbatchev/regex-lib');
-var Match = require('@alexgorbatchev/parser').Match;
+var BrushBase = require('brush-base');
+var regexLib = require('regex-lib');
+var Match = require('parser').Match;
 
 function Brush() {
   var keywords = 'abstract as base bool break byte case catch char checked class const ' +
