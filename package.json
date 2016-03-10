@@ -1,6 +1,6 @@
 {
   "name": "brush-csharp",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "C# brush module for SyntaxHighlighter.",
   "keywords": [
     "syntaxhighlighter",
